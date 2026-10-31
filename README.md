@@ -1,4 +1,4 @@
-# Spectral Analysis Platform
+# Portable Spectrophotometer
 
 Software for capturing spectra, analyzing absorbance, and training concentration-prediction models. Built alongside a portable CMOS camera-based spectrophotometer for heavy metal analysis as part of an undergraduate thesis.
 
